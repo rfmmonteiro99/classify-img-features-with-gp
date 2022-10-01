@@ -2,6 +2,8 @@
 
 **Author:** Rui Filipe Martins Monteiro
 
+Master Degree Program in Data Science and Advanced Analytics, with a specialization in Data Science at NOVA Information Management School
+
 ## Abstract
 
 ...
